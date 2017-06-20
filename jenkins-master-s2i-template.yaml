@@ -12,7 +12,7 @@ parameters:
 - description: Git source URI for Jenkins S2I
   name: SOURCE_REPOSITORY_URL
   required: true
-  value: https://github.com/giuseppetanzi/jenkins-swarm.git
+  value: https://github.com/scoheb/jenkins-swarm.git
 - description: Git branch/tag reference
   name: SOURCE_REPOSITORY_REF
   value: master
